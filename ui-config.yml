@@ -1,0 +1,18 @@
+---
+antora:
+  name: modules
+  dir: www
+  modules:
+    - name: "01-install-developer-toolset"
+      label: "Install Developer Toolset"
+      solveButton: true
+    - name: "02-configure-virtual-environment"
+      label: "Configure Virtual Environment"
+      solveButton: true
+    - name: "03-run-test-program"
+      label: "Run Test Program"
+      solveButton: true
+
+tabs:
+  - name: ">_ terminal"
+    url: /wetty

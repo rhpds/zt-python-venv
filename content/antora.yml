@@ -1,0 +1,9 @@
+---
+name: modules
+version: master
+
+asciidoc:
+  attributes:
+    lab_name: "Python Virtual Environments in Red Hat Enterprise Linux"
+    release-version: master
+    page-pagination: true

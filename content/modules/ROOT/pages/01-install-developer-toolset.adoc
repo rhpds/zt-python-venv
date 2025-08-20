@@ -4,7 +4,16 @@ The first step is to install Red Hat Enterprise Linux Developer Toolset.
 This is a group of packages which contains helpful development tools for
 Python, including those needed for virtual environments. It is included
 in all RHEL subscriptions, including the free Developer Subscription for
-Individuals. To install, run the following command:
+Individuals. 
+
+For ease of use with this lab, we will elevate your user privileges.
+
+[source,bash,run]
+----
+sudo su
+----
+
+To install, run the following command:
 
 [source,bash,run]
 ----

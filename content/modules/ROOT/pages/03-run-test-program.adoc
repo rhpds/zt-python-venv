@@ -7,7 +7,7 @@ command to open it using Vim:
 
 [source,bash,run]
 ----
-vi /home/api.py
+vim /home/api.py
 ----
 
 If you are new to Vim, check out this helpful guide to learn the basics:

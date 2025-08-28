@@ -8,6 +8,7 @@ virtualmachines:
       - git
       - cockpit
       - tmux
+      - vim
     tags:
       - key: "AnsibleGroup"
         value: "bastions"

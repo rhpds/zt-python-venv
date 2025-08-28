@@ -14,9 +14,7 @@ If you are new to Vim, check out this helpful guide to learn the basics:
 
 https://www.linuxfoundation.org/blog/blog/classic-sysadmin-vim-101-a-beginners-guide-to-vim
 
-To run the test program, make sure your environment is activated. Your
-command line should look like this:
-image:../assets/venv_activation.png[../assets/venv_activation]
+To run the test program, make sure your environment is activated.
 
 If your environment is not activated, reactivate it with the following
 command:
